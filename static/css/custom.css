@@ -1,0 +1,13 @@
+/* Overwrite in your /assets/css/custom.css file */
+@import url(https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister);
+@import url('https://use.fontawesome.com/releases/v5.7.2/css/all.css');
+@import url(https://nifty-kirch-543908.netlify.app/untitled-font-1.css);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+/*@import url('https://file.myfontastic.com/AbYffyfbkFeA9voQbcZ8wg/icons.css');*/
+
+
+
+.brand-logo {
+    font-family: 'Love Ya Like A Sister', Arial, sans-serif !important;
+    color: red !important ;
+}

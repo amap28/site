@@ -7,29 +7,31 @@
 {{ define "main" }}
 
     <div class="container">
-        <p class="card-text">{{ .Content }}</p>
+        <div class="card-text browser-default">{{ .Content }}</div>
         <ul class="collapsible">
 
         {{ range .Site.Data.producteur }}
         
             <li>
-              <div class="collapsible-header"><i class="{{ .icone}} " style="font-size: 40px"></i><p ><h5>{{ .nom | markdownify }}</h5></div>
+              <div class="collapsible-header row"><div class="col s2"><i class="{{ .icone}} " style="font-size: 50px"></i></div ><div class="col s10"><h5>{{ .nom | markdownify }}</h5></div></div>
                 
-                <div class="collapsible-body"><span>
-                    <div>{{ .text | markdownify }}</div> 
+                <div class="collapsible-body lime lighten-4"><span>
+                    <H6>{{ .text | markdownify }}</h6> 
                     <ul>
-                        
+                        {{if .fiche}}
+                        <li><div><a href="https://drive.google.com/file/d/{{ .fiche}}/view" target="_blank">Fiche descriptive</a></div></li>
+                        {{end}}
                         {{ $count :=0}}
                         {{ range .certificats}}
                          <li>   {{ $count =   add $count 1}}
-                    <div> <a href="https://drive.google.com/file/d/{{ .  }}/view" target="_blank">Certificat {{$count}}</a></div>
+                    <div> <a href="https://drive.google.com/file/d/{{ .  }}/view" target="_blank">Certificat bio N° {{$count}}</a></div>
                         </li>{{end}}
-                        <li><div> <a href="https://drive.google.com/file/d/{{ .modalites}}/view" target="_blank">Modalités</a></div></li>
+                        <li><div> <a href="{{ .modalites | safeURL}}" target="_blank">Modalités</a></div></li>
                         {{if .site}}
                         <li><div>Le site internet du producteur : <a href="https://{{ .site | safeURL }}" target="_blank">{{.site | safeURL}}</a></div></li>
                         {{end}}
                     </ul>
-                    Référent.e : </br>
+                    <h6 >Référent.e : </h6>
                     {{.referent}}</br>
                     {{.adresse_ref}}
                 </span></div>

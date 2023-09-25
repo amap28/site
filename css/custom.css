@@ -11,3 +11,7 @@
     font-family: 'Love Ya Like A Sister', Arial, sans-serif !important;
     color: red !important ;
 }
+
+li {
+    list-style-type: circle !important
+}

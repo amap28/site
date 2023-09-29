@@ -10,14 +10,12 @@ Bienvenu sur le site d'AMAPETITECAGETTE.
 
 
 
-# Saison 2021/2022 :
+### Saison 2023/2024 :
  
 Pour adhérer, nous vous conseillons de venir nous rencontrer sur le site de distribution. 
 
-Toutefois, la pandémie, nous contraint régulièrement à adapter nos horaires de distribution aux obligations réglementaires. Nous vous recommandons de nous contacter par mail à l’adresse amapetitecagette@gmail.com pour vous communiquer les horaires du moment.
 
-
-# Qu’est ce qu’une AMAP ? 
+### Qu’est ce qu’une AMAP ? 
 
 
 L’ AMAP regroupe des producteurs et des consom’acteurs désirant consommer différemment.

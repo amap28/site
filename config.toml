@@ -1,4 +1,4 @@
-baseURL = "https://www.amapetitecagette.fr/"
+baseURL = "https://amapetitecagette.fr/"
 title = "amapetitecagette"
 # author = "Steve Francia"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
@@ -122,24 +122,24 @@ theme="materialize-bp-hugo-theme"
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    # name = "About"  # Material Icons are displayed as block so use the icon only
-    url = "/about/"
-    weight = 10
-    pre = "<i class='material-icons'>speaker_notes</i>" # Material Icons
-    # pre = "<i class='fas fa-heart'></i>" # FontAwesone has more love ;-)
+    # identifier = "about"
+    # # name = "About"  # Material Icons are displayed as block so use the icon only
+    # url = "/about/"
+    # weight = 10
+    # pre = "<i class='material-icons'>speaker_notes</i>" # Material Icons
+    # # pre = "<i class='fas fa-heart'></i>" # FontAwesone has more love ;-)
 
     [[menu.main]]
     identifier = "post"
     name = "Actualité"  # Material Icons are displayed as block so use the icon only
     url = "/post/"
-    weight = 10
+    weight = 12
     # pre = "<i class='material-icons'>speaker_notes</i>" # Material Icons
     # pre = "<i class='fas fa-heart'></i>" # FontAwesone has more love ;-)
 
     [[menu.main]]
     identifier = "producteurs"
-    name = "producteurs"  # Material Icons are displayed as block so use the icon only
+    name = "Producteurs"  # Material Icons are displayed as block so use the icon only
     url = "/producteurs"
     weight = 10
     # pre = "<i class='material-icons'>speaker_notes</i>" # Material Icons
@@ -178,6 +178,13 @@ theme="materialize-bp-hugo-theme"
        # pre = "<i class='material-icons'>speaker_notes</i>" # Material Icons
       # pre = "<i class='fas fa-heart'></i>" # FontAwesone has more love ;-)
 
+    [[menu.main]]
+        identifier = "amapj"
+        name = "Amapj"  # Material Icons are displayed as block so use the icon only
+        url = "https://contrats.amapj.fr/p/chartres#!/"
+        weight = 30
+        # pre = "<i >speaker_notes</i>" # Material Icons
+        # pre = "<i class='fas fa-heart'></i>" # FontAwesone has more love ;-)
 
   [[menu.footer]]
     identifier = "about"

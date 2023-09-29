@@ -15,3 +15,7 @@
 li {
     list-style-type: circle !important
 }
+
+.sidenav-overlay{
+    z-index: 980 !important;
+}

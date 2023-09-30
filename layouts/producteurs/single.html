@@ -24,7 +24,7 @@
                         {{ $count :=0}}
                         {{ range .certificats}}
                          <li>   {{ $count =   add $count 1}}
-                    <div> <a href="https://drive.google.com/file/d/{{ .  }}/view" target="_blank">Certificat bio N° {{$count}}</a></div>
+                    <div> <a href="{{.}}" target="_blank">Certificat bio N° {{$count}}</a></div>
                         </li>{{end}}
                         <li><div> <a href="{{ .modalites | safeURL}}" target="_blank">Modalités</a></div></li>
                         {{if .site}}

@@ -8,15 +8,15 @@ type: page
 
 **C'est reparti pour une nouvelle saison !**
 
-Elle s'étalera de mai 2021 à fin avril 2022. Découvrez le <a href="https://drive.google.com/file/d/1FDNCMggBNtQZhsmkMi95MySDy8S0HXTk/view?usp=sharing" target="_blank"> calendrier des distributions des légumes </a> pour la saison à venir.
+Elle s'étalera de mai 2023 à fin avril 2024. Découvrez le <a href="https://drive.google.com/file/d/13IrZDtmGOIRI63itS-EKRGvgxpReSYcq/view?usp=sharing" target="_blank"> calendrier des distributions des légumes </a> pour la saison à venir.
 
 Nous proposons à tous nos adhérents des paniers hebdomadaires à 10 € contenant 4/5 variétés de légumes et/ou des paniers  à 15 € contenant 6/7 variétés de légumes. 
 
 Pour vous rendre compte par vous même du fonctionnement  des distributions, de leur contenu, avoir plus d'explications, nous aurons plaisir à vous recevoir à notre local, tous les jeudis de 17h30 à 19h30 au 4, Place St-Brice à Chartres.
 
-L'adhésion à l'association (15 euros) vous donne accès à tous nos contrats de partenariat et vous permet de commander d'autres produits (voir la page [Nos producteurs BIO](../nos-producteurs) ).
+L'adhésion à l'association (15 euros) vous donne accès à tous nos contrats de partenariat et vous permet de commander d'autres produits (voir la page [Nos producteurs BIO](/producteurs) ).
 
-<a href="https://drive.google.com/file/d/1vo_8G4ljb9AXZZlcZ0HCG9jQ1jMMcC_h/view?usp=sharing" target="_blank">Le bulletin d'adhésion</a> vaut également contrat unique pour l'ensemble de nos producteurs.
+<a href="https://drive.google.com/file/d/1XWFgEexhuuyURV_mkgGyONM77vTzx9EF/view?usp=sharing" target="_blank">Le bulletin d'adhésion</a> vaut également contrat unique pour l'ensemble de nos producteurs.
 
 Si vous souhaitez adhérer, contactez par mail le président de l'association François Berte sur amapetitecagette@gmail.com 
  

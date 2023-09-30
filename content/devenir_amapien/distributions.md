@@ -6,7 +6,7 @@ type: page
 
 Chaque jeudi nos livraisons et distributions ont lieu 4 place St Brice, 28000 Chartres de 17H30 à 19H30.
  
-Découvrez le <a href="https://drive.google.com/file/d/1FDNCMggBNtQZhsmkMi95MySDy8S0HXTk/view?usp=sharing" target="_blank"> calendrier prévisionnel </a>de distribution des paniers de légumes pour la saison à venir.
+Découvrez le <a href="https://drive.google.com/file/d/13IrZDtmGOIRI63itS-EKRGvgxpReSYcq/view?usp=sharing" target="_blank"> calendrier prévisionnel </a>de distribution des paniers de légumes pour la saison à venir.
 
 Chaque adhérent participe à deux distributions par trimestre.
 Que dois je faire pendant la distribution ?  Voici le guide de distribution

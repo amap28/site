@@ -1,12 +1,12 @@
 nom: "Pain"
 icone: "icon-pain"
 text: >
-  "Notre producteur de pain :
+  "Notre Paysan Boulanger :
 
-  Xavier BOULLIER :  
+  Xavier BOULLIER - GAEC Le Pain des Champs :  
   61130 Saint Cyr la Rosière"
 certificats :
-  - "1-9ZKTfj68uMkul8kNNSp-bzaph_5nFj"
+  - "https://drive.google.com/file/d/1nBzKxb7zIvasbVLj5-jde2zvtS3OEoJJ/view?usp=sharing"
 modalites :
   'https://drive.google.com/file/d/1wM3fepMAfdXKUIDSeOw2lheXzg9kxptv/view?usp=sharing'
 fiche :
@@ -14,6 +14,7 @@ fiche :
 site :
 
 referent :
-  "Gwladys GALAN-LEMONNIER"
+  "Michael et Lucie ADNET
+BODOVILLE"
 adresse_ref :
-  "amapetitecagette@gmail.com"
+  "amapain@ik.me"

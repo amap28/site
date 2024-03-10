@@ -21,6 +21,7 @@ pygmentsCodeFences = true
 canonifyurls = true
 paginate = 6
 theme="materialize-bp-hugo-theme"
+publishDir= "docs"
 
 [markup]
   [markup.goldmark]

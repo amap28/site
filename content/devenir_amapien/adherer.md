@@ -8,9 +8,12 @@ type: page
 
 **C'est reparti pour une nouvelle saison !**
 
-Elle s'étalera de mai 2023 à fin avril 2024. Découvrez le <a href="https://drive.google.com/file/d/1aWvaF_tYZVbtj8iz3H2rvLA41mOkMf1k/view?usp=sharing" target="_blank"> calendrier des distributions des légumes </a> pour la saison à venir.
+Elle s'étalera de mai 2024 à fin avril 2025. Découvrez le <a href="https://drive.google.com/file/d/1aWvaF_tYZVbtj8iz3H2rvLA41mOkMf1k/view?usp=sharing" target="_blank"> calendrier des distributions des légumes </a> pour la saison à venir.
 
-Nous proposons à tous nos adhérents des paniers hebdomadaires à 10 € contenant 4/5 variétés de légumes et/ou des paniers  à 15 € contenant 6/7 variétés de légumes. 
+Nous proposons à tous nos adhérents des paniers hebdomadaires : 
+- SOLO de 1 à 2 légumes à 6 € 
+- DUO de 4 à 5 légumes à 12 €
+- FAMILLE de 6 ou 7 légumes à 18 hugo€. 
 
 Pour vous rendre compte par vous même du fonctionnement  des distributions, de leur contenu, avoir plus d'explications, nous aurons plaisir à vous recevoir à notre local, tous les jeudis de 17h30 à 19h30 au 4, Place St-Brice à Chartres.
 

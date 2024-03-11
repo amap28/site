@@ -1,0 +1,46 @@
+/* Overwrite in your /assets/css/custom.css file */
+@import url(https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister);
+@import url('https://use.fontawesome.com/releases/v5.7.2/css/all.css');
+@import url('https://nifty-kirch-543908.netlify.app/style.css');
+/*@import url('https://file.myfontastic.com/AbYffyfbkFeA9voQbcZ8wg/icons.css');*/
+
+
+
+.brand-logo {
+    font-family: 'Love Ya Like A Sister', Arial, sans-serif !important;
+    color: red !important ;
+}
+
+.collapsible-header {
+    margin-bottom: 0px!important;
+}
+
+.collapsible-body li{
+    list-style-type: initial!important;
+    margin-left: 2em;
+    
+}
+
+[class^="icon-"], [class*=" icon-"], [class*="fas"] {
+    display: inline-block;
+    width: 100%!important; 
+    text-align: center;
+}
+
+.s2 {
+    text-align: center;
+}
+
+.collapsible-header i{
+    width: 5rem;
+    margin-right: 3em!important;
+}
+
+.sidenav-overlay{
+    z-index: 995 !important;
+}
+
+
+/* .card-text.browser-default li{list-style-type: initial!important;
+    margin-left: 2em;
+} */

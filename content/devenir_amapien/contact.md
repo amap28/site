@@ -14,14 +14,7 @@ Sylvie Gallou
 amapetitecagette@gmail.com
 
 ## Secrétaire :
-Claire PICARD
-
-
-
-## Vice secrétaire : 
-Corinne Rousseau
-
-corinne.rousseau28@gmail.com
+Stéphanie Bouriga
 
 ## Trésorière :
 Gwladys Galan

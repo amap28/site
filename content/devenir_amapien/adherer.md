@@ -8,7 +8,7 @@ type: page
 
 **C'est reparti pour une nouvelle saison !**
 
-Elle s'étalera de mai 2024 à fin avril 2025. Découvrez le <a href="https://drive.google.com/file/d/1aWvaF_tYZVbtj8iz3H2rvLA41mOkMf1k/view?usp=sharing" target="_blank"> calendrier des distributions des légumes </a> pour la saison à venir.
+Elle s'étalera de mai 2025 à fin avril 202. Découvrez le <a href="https://drive.google.com/file/d/1m_hctRXclXmQHquf61iPltMqIXGsmtco/view?usp=sharing" target="_blank"> calendrier des distributions des légumes </a> pour la saison à venir.
 
 Nous proposons à tous nos adhérents des paniers hebdomadaires : 
 - SOLO de 1 à 2 légumes à 6 € 
@@ -19,7 +19,7 @@ Pour vous rendre compte par vous même du fonctionnement  des distributions, de 
 
 L'adhésion à l'association (15 euros) vous donne accès à tous nos contrats de partenariat et vous permet de commander d'autres produits (voir la page [Nos producteurs BIO](/producteurs) ).
 
-<a href="https://drive.google.com/file/d/1IUapH7vbJ-Qf_QozCyf5hXnGZ--YNOy3/view?usp=sharing" target="_blank">Le bulletin d'adhésion</a> vaut également contrat unique pour l'ensemble de nos producteurs.
+<a href="https://drive.google.com/file/d/1u63KhwUb58aCZBjY-Opiw2ZU9pgO-0rH/view?usp=sharing" target="_blank">Le bulletin d'adhésion</a> vaut également contrat unique pour l'ensemble de nos producteurs.
 
 Si vous souhaitez adhérer, contactez par mail le président de l'association François Berte sur amapetitecagette@gmail.com 
  

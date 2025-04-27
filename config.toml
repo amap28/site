@@ -13,13 +13,13 @@ ignoreErrors = ["error-remote-getjson"]
 footnoteReturnLinkContents = "^"
 
 # Theme specific examples
-author = "Sebastian Pech"
+# author = "Sebastian Pech"
 copyright = "Sebastian Pech"
 # googleAnalytics = "UA-123-45"
 enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
-paginate = 6
+pagination.pagerSize = 6
 theme="materialize-bp-hugo-theme"
 publishDir= "docs"
 
@@ -39,8 +39,7 @@ publishDir= "docs"
     pages = "/:slug/"
     page = "/:slug/"
 
-[Author]  
-  name = "Sebastian Pech"
+
 
 [params]
   description = "Text about the site"
@@ -60,7 +59,7 @@ publishDir= "docs"
   # css=["/css/test_site.css"]
   # csscdn=["https://fonts.googleapis.com/css?family=Concert+One|Roboto&display=swap"]
   # themeColor1="red"
-
+  social =""
 
 #[languages]
 #  [languages.en]
@@ -78,46 +77,6 @@ publishDir= "docs"
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted.
 # Code from https://themes.gohugo.io/future-imperfect/ theme
-[social]
-  # Coding Communities
-  github           = "spech66"
-  gitlab           = ""
-  stackoverflow    = "" # User Number
-  bitbucket        = ""
-  jsfiddle         = ""
-  codepen          = ""
-  # Visual Art Communities
-  deviantart       = ""
-  flickr           = ""
-  behance          = ""
-  dribbble         = ""
-  # Publishing Communities
-  wordpress        = ""
-  medium           = ""
-  # Professional/Business Oriented Communities
-  linkedin         = "sebastian-pech"
-  linkedin_company = ""
-  foursquare       = ""
-  xing             = "Sebastian_Pech3"
-  slideshare       = ""
-  # Social Networks
-  facebook         = "spechde" # https://fb.me/flowartsde
-  googleplus       = ""
-  reddit           = ""
-  quora            = ""
-  youtube          = "" 
-  vimeo            = ""
-  whatsapp         = "" # WhatsApp Number
-  instagram        = "sebastian_pech"
-  tumblr           = ""
-  twitter          = "spech84"
-  skype            = ""
-  snapchat         = ""
-  pinterest        = ""
-  telegram         = ""
-  discord          = "" # invite link
-  # Email
-  email            = ""
 
 
 [menu]

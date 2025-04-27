@@ -10,7 +10,7 @@ Bienvenu sur le site d'AMAPETITECAGETTE.
 
 
 
-### Saison 2024/2025 :
+### Saison 2025/2026 :
  
 Pour adhérer, nous vous conseillons de venir nous rencontrer sur le site de distribution. 
 

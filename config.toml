@@ -1,6 +1,6 @@
 baseURL = "https://amapetitecagette.fr/"
 title = "amapetitecagette"
-# author = "Steve Francia"
+
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 # paginate = 3
 languageCode = "fr"
@@ -23,6 +23,8 @@ pagination.pagerSize = 6
 theme="materialize-bp-hugo-theme"
 publishDir= "docs"
 
+
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -42,6 +44,8 @@ publishDir= "docs"
 
 
 [params]
+  [author]
+    name = "Eric WOLFF"
   description = "Text about the site"
   #images = ["logo.jpg"]
    showPostSummary = true
@@ -179,10 +183,7 @@ series = "series"
     disabled = false
     simple = true
 
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
+
 
   [privacy.instagram]
     disabled = false
@@ -197,5 +198,3 @@ series = "series"
   [services.instagram]
     disableInlineCSS = true
 
-  [services.twitter]
-    disableInlineCSS = true

@@ -8,7 +8,7 @@ type: page
 
 **C'est reparti pour une nouvelle saison !**
 
-Elle s'étalera de mai 2025 à fin avril 202. Découvrez le <a href="https://drive.google.com/file/d/1m_hctRXclXmQHquf61iPltMqIXGsmtco/view?usp=sharing" target="_blank"> calendrier des distributions des légumes </a> pour la saison à venir.
+Elle s'étalera de mai 2026 à fin avril 2027. Découvrez le <a href="https://drive.google.com/file/d/1pUdW1C4bTgcCedbg8PTShKwSjVl3Es08/view?usp=sharing" target="_blank"> calendrier des distributions des légumes </a> pour la saison à venir.
 
 Nous proposons à tous nos adhérents des paniers hebdomadaires : 
 - SOLO de 1 à 2 légumes à 6 € 
@@ -19,7 +19,7 @@ Pour vous rendre compte par vous même du fonctionnement  des distributions, de 
 
 L'adhésion à l'association (15 euros) vous donne accès à tous nos contrats de partenariat et vous permet de commander d'autres produits (voir la page [Nos producteurs BIO](/producteurs) ).
 
-<a href="https://drive.google.com/file/d/1u63KhwUb58aCZBjY-Opiw2ZU9pgO-0rH/view?usp=sharing" target="_blank">Le bulletin d'adhésion</a> vaut également contrat unique pour l'ensemble de nos producteurs.
+<a href="https://drive.google.com/file/d/1IUqdLJMFqv47ivlTW3KfWKqoJpo-EbpJ/view?usp=sharing" target="_blank">Le bulletin d'adhésion</a> vaut également contrat unique pour l'ensemble de nos producteurs.
 
 Si vous souhaitez adhérer, contactez par mail le président de l'association François Berte sur amapetitecagette@gmail.com 
  
@@ -28,8 +28,8 @@ A bientôt
 
 # Pour en savoir plus :
 
-
 Consultez :
+
 * <a href="https://drive.google.com/file/d/18RvH46W8dM9lZyjkx-WyywsgxLhKtpsy/view?usp=sharing" target="_blank">Notre plaquette </a> ou vous trouverez des explications plus détaillées sur notre fonctionnement.
 * <a href="https://drive.google.com/open?id=1iHNbvYw2x5rC7cj5u5exqFhAp9CPzJKe" target="_blank">La Charte des AMAPs</a> vous y découvrirez nos objectifs et principes fondamentaux ainsi que les engagements des paysans producteurs et des amapiens.
 * <a href="https://drive.google.com/open?id=10VaOsjK9jcalS0FplQ8qWQXA3NcIXLg2" target="_blank">Le règlement intérieur d'AmaPetiteCagette</a>
